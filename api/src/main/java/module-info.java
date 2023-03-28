@@ -1,3 +1,3 @@
-module log.api {
+open module log.api {
     exports ch.frankel.blog.serviceloader.log;
 }
